@@ -21,7 +21,7 @@ exports.config = {
 
     //Spec patterns are relative to the current working 
     //directory when protactor is called
-    specs: ['../test/calculator.js'],
+    specs: ['D:/proiecte/Proactor/protractor 2/protractor 2/test/calculator.js'],
 
     //Options to be passed to Jasmine.
     jasmineNodeOpts: {

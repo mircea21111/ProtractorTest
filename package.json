@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-reporters": "^2.5.2",
+    "protractor-html-reporter-2": "^1.0.4",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.1"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "protractor": "^7.0.0"
+  }
+}
